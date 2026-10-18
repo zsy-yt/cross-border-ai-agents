@@ -13,7 +13,7 @@ SKILL.md：必需依赖，定义 overseas-feasibility 技能的评分维度、�
 出海可行性报告.md：运行后自动生成的报告文件，保存于 /kaggle/working/
 
 📌 Notebook 在线查看链接
-👉 点击查看完整项目
+👉 [点击查看完整项目](https://github.com/zsy-yt/cross-border-ai-agents/blob/main/cross-border-ai-agents.ipynb)
 
 ⚙️ 环境依赖
 python
